@@ -1,4 +1,7 @@
+# This program multiply two integer and return an integer
 def multi_two_values():
+
+    print("welcome to the multiplication of two numbers")
 
     x = float(input("enter the first number and hit enter: "))
 
